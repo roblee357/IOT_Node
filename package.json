@@ -1,0 +1,19 @@
+{
+  "name": "iot_node",
+  "version": "1.0.0",
+  "description": "IOT",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roblee357/IOT_Node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/roblee357/IOT_Node/issues"
+  },
+  "homepage": "https://github.com/roblee357/IOT_Node#readme"
+}
